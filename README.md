@@ -65,7 +65,9 @@ python3 --version
   history
   exit
 
-#after this is i uploaded alll the files to my repository link:https://github.com/sudhansu958/terraform_instance_ec2.git
+#after this is i uploaded alll the files to my repository link:https://github.com/sudhansu958/terrafform.git
+
+git hub link:https://github.com/sudhansu958/terrafform.git
 
 # terraform
 # terraform
